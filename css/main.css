@@ -1,0 +1,25 @@
+
+h1 {
+  text-align: center;
+}
+
+#displayGallery {
+  text-align: center;
+}
+
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 20px;
+  margin: 2px;
+}
+
+.col-sm-3 {
+  padding: 2px;
+  border: 1px solid black;
+  margin: 1%;
+}
+.container {
+  margin: 0 auto;
+}
